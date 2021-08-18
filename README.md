@@ -1,7 +1,8 @@
 # Efficient Network Devices Data Retrieving - Application case of Validate/Monitor access to network devices with the integration of Genie/pyATS, WebEx Messenger and Syslog server use case
 
 <div style="text-align: justify">
-This project shows an efficent and optimized way to retrieve data from network devices with checking access process by leveraging the [Validate/Monitor access to network devices with the integration of Genie/pyATS, WebEx Messenger and Syslog server](https://developer.cisco.com/network-automation/detail/31f2a492-d5b7-11eb-95a0-c6918c6fb71b/) use case relating with the project [Check_Access](https://developer.cisco.com/codeexchange/github/repo/cherifimehdi/Check_Access).
+
+      This project shows an efficent and optimized way to retrieve data from network devices with checking access process by leveraging the [Validate/Monitor access to network devices with the integration of Genie/pyATS, WebEx Messenger and Syslog server](https://developer.cisco.com/network-automation/detail/31f2a492-d5b7-11eb-95a0-c6918c6fb71b/) use case relating with the project [Check_Access](https://developer.cisco.com/codeexchange/github/repo/cherifimehdi/Check_Access).
 
 Suppose we have 100 network devices and we have access only to 50 of them, the retriving data process is applied only to these 50 devices witch conduct to save the time with generating logs to Syslog server for maintenance purposes besides the report sent to WebEx Messenger Space.
 
