@@ -13,7 +13,8 @@ In summary, this project aims to :
       
 # Remark
 We focus here only on the result for the Syslog server notifications and the package installation and requirements, the others details like configuration files modification, topology and the WebEx Messenger result could be found at [Check_Access](https://developer.cisco.com/codeexchange/github/repo/cherifimehdi/Check_Access) repository related to [Validate/Monitor access to network devices with the integration of Genie/pyATS, WebEx Messenger and Syslog server](https://developer.cisco.com/network-automation/detail/31f2a492-d5b7-11eb-95a0-c6918c6fb71b/) use case as it is a part of this project.
-
+For testing purposes, the topology used here is the same as that used in the [Check_Access](https://developer.cisco.com/codeexchange/github/repo/cherifimehdi/Check_Access) project
+      
 # Packages installation and Requierements
 
 The best practice is to leverage Python Virtual Environments (env). Please follow these steps to clone the Git repository and create and active the virtual environment:
