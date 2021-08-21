@@ -17,7 +17,7 @@ We focus here only on the result for the Syslog server notifications and the pac
 
 Cisco DevNet Sandbox [Cisco Modeling Labs](https://devnetsandbox.cisco.com/RM/Diagram/Index/45100600-b413-4471-b28e-b014eb824555?diagramType=Topology)
 
-## Related Repsitory
+## Related Repository
 
 [Check_Access](https://github.com/cherifimehdi/Check_Access)
 
