@@ -1,5 +1,5 @@
 pyats==20.12
-requests==2.25.1
+requests==2.31.0
 requests-toolbelt==0.9.1
 prettytable==2.0.0
 python-dotenv==0.17.1
