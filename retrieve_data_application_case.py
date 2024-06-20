@@ -2,7 +2,7 @@
 # Note : Please make sure to apply your <YOUR_SYSLOG_SERVER> and <YOUR_ROOM_ID> in the required emplacement
 # Please refer to https://github.com/cherifimehdi/Check_Access for more details about this project 
 
-
+import os
 from genie.testbed import load
 from prettytable import PrettyTable
 import logging.handlers
