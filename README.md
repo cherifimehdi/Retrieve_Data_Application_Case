@@ -20,10 +20,6 @@ For testing purposes, the topology used here is the same as that used in the [Ch
       
 # Packages installation and Requierements
 
-Before we start, here a demo:
-
-![Demo](./Images/Retrieve_Data_Application_Case_Demo.gif)
-
 The best practice is to leverage Python Virtual Environments (env). Please follow these steps to clone the Git repository and create and active the virtual environment:
 
 ```
