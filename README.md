@@ -18,6 +18,10 @@ We focus here only on the result for the Syslog server notifications and the pac
       
 For testing purposes, the topology used here is the same as that used in the [Check_Access](https://developer.cisco.com/codeexchange/github/repo/cherifimehdi/Check_Access) project
       
+# Demo
+
+![Demo](./Images/Retrieve_Data_Application_Case_Demo.gif)
+
 # Packages installation and Requierements
 
 The best practice is to leverage Python Virtual Environments (env). Please follow these steps to clone the Git repository and create and active the virtual environment:
